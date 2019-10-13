@@ -1,4 +1,4 @@
-# Repostas
+# Respostas
 
 ## 1 - Baseado no site escolhido, descreva os cenários dos testes que devem ser executados para
 

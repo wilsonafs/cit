@@ -2,6 +2,7 @@
 
 * O conteúdo abaixo é um exemplo de automação da página Azul Linhas Aéreas. Foi utilizado Selenium webdriver com Capybara e Cucumber.
 * Os elementos da página foram mapeados com a gem SitePrism, utilizando boas práticas de Page Objects
+* As respostas do desafio estão no arquivo exercicio.md
 
 ## Configuração do projeto
 
